@@ -116,7 +116,7 @@ User interface project focused on data representation and rendering.
 University of Massachusetts Lowell — B.S. in Computer Science (May 2026)
 Email: anthonyklimas47@gmail.com
 Resume:
-LinedIn:
+LinkedIn:
 
 
 
