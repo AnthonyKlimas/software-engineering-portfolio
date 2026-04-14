@@ -14,7 +14,7 @@ Physics-based simulation modeling complex systems using C++ and object-oriented 
 - Implemented simulation logic and dynamic system behavior
 - Utilized file I/O handling to process input data and generate system states
 
-- [View Project](link)
+- [View Project](https://github.com/AnthonyKlimas/nbody-simulation)
 
 
 ### DNA Sequence Alignment
