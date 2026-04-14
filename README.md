@@ -1,6 +1,6 @@
 # Software Engineering Portfolio — (C++ Systems & Applications)
 This portfolio showcases software engineering projects with a focus on C++ systems programming, 
-data structures and algorithms, and data processing. The projects demonstrate object-oriented design, 
+data structures and algorithms, and data processing using the SFML library. The projects demonstrate object-oriented design, 
 low-level programming, file I/O handling, and efficient problem solving across simulation and 
 system-based applications.
 
